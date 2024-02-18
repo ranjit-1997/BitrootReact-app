@@ -1,4 +1,3 @@
-// src/App.js
 import React, { useState, useEffect } from 'react';
 import ArticleCard from './components/ArticleCard';
 import Modal from './components/Modal';
